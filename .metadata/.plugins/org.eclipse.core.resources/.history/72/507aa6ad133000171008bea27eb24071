@@ -1,0 +1,8 @@
+package com.wuyt3;
+
+public class CrazyMain {
+	public static void main(String[] args)
+	{
+		System.out.println("main E!");
+	}
+}
